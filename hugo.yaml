@@ -1,0 +1,14 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+title: "Amit Bhandari"
+theme: ["hello-friend"]
+paginate: 5
+params:
+  contentTypeName: "posts"
+  defaultTheme: "dark"
+  showMenuItems: 2
+  showReadingTime: false
+  dateFormatSingle: "Jan 15, 2024"
+  dateFormatList: "Jan 02, 2006"
+  logo:
+    logoText: "Amit Bhandari Photos"
