@@ -1,8 +1,8 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-draft = true
-cover = "dp.png"
+draft = false
+cover = ""
 useRelativeCover = true
 hideReadMore = true
 +++
