@@ -12,3 +12,6 @@ params:
   dateFormatList: "Jan 02, 2006"
   logo:
     logoText: "Amit Bhandari Photos"
+  analytics:
+    google:
+      SiteVerificationTag: "_F-qCbvXHu2Xd811SJtC1fixTXWe_88yk5m9CNZ-Zpg"

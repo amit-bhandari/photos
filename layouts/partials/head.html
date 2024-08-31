@@ -11,6 +11,9 @@
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+{{- if site.Params.analytics.google.SiteVerificationTag }}
+<meta name="google-site-verification" content="{{ site.Params.analytics.google.SiteVerificationTag }}">
+{{- end }}
 <!-- head custom -->
 {{- partial "prepended_head.html" . }}
 
