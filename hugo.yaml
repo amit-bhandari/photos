@@ -1,5 +1,5 @@
 baseURL: "https://amit-bhandari.github.io/photos/"
-languageCode: "en-us"
+locale: "en-us"
 title: "Amit Bhandari"
 theme: ["hello-friend"]
 pagerSize: 10
